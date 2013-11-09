@@ -459,7 +459,7 @@ class Chosen extends AbstractChosen
         @mouse_on_container = false
         break
       when 13
-        evt.preventDefault()
+        # evt.preventDefault()
         break
       when 38
         evt.preventDefault()
